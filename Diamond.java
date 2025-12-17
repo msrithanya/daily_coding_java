@@ -27,4 +27,7 @@ public class Diamond{
             System.out.println("");
        }
     }
+    void dis(){
+        System.out.println("from diamond class");
+    }
 }
